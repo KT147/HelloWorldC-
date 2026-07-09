@@ -1,0 +1,15 @@
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/bin/Debug/net10.0/OOP
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/bin/Debug/net10.0/OOP.deps.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/bin/Debug/net10.0/OOP.runtimeconfig.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/bin/Debug/net10.0/OOP.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/bin/Debug/net10.0/OOP.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/OOP.AssemblyInfoInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/OOP.AssemblyInfo.cs
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/OOP.csproj.CoreCompileInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/OOP.sourcelink.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/OOP.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/refint/OOP.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/OOP.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/OOP.genruntimeconfig.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/OOP/obj/Debug/net10.0/ref/OOP.dll

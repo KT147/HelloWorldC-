@@ -1,0 +1,21 @@
+
+namespace OOP
+{
+    internal class MyClass
+    {
+        // TODO: Declare a private readonly field to store the value
+        // TODO: Create a public read-only property to expose the field's value
+        private readonly string _value;
+
+        public string Value
+        {
+            get { return _value; }
+        }
+
+        public MyClass(string value)
+        {
+            // TODO: Initialize the readonly field with the value parameter
+            _value = value;
+        }
+    }
+}
