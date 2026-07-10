@@ -31,10 +31,15 @@ namespace OOP
             // System.Console.WriteLine("Customer's name: " + frank.Name);
             // System.Console.WriteLine("Customer's name: " + myCustomer.Name);
 
-            Rectangle rectangle1 = new Rectangle("Red");
-            Rectangle rectangle2 = new Rectangle("Blue");
-            rectangle1.DisplayDetails();
-            rectangle2.DisplayDetails();
+            // Rectangle rectangle1 = new Rectangle("Red");
+            // Rectangle rectangle2 = new Rectangle("Blue");
+            // rectangle1.DisplayDetails();
+            // rectangle2.DisplayDetails();
+
+            Person john = new Person("John", 30);
+            john.Greet();
+            Person underAge = new Person("BabyShark", -2);
+            underAge.Greet();
 
         }
     }
