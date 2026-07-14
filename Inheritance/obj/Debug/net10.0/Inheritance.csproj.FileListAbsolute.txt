@@ -1,0 +1,15 @@
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/Inheritance.AssemblyInfoInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/Inheritance.AssemblyInfo.cs
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/Inheritance.sourcelink.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/bin/Debug/net10.0/Inheritance
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/bin/Debug/net10.0/Inheritance.deps.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/bin/Debug/net10.0/Inheritance.runtimeconfig.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/bin/Debug/net10.0/Inheritance.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/bin/Debug/net10.0/Inheritance.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/Inheritance.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/refint/Inheritance.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/Inheritance.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/Inheritance.genruntimeconfig.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Inheritance/obj/Debug/net10.0/ref/Inheritance.dll
