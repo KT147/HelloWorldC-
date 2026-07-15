@@ -1,0 +1,15 @@
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/Interface.AssemblyInfoInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/Interface.AssemblyInfo.cs
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/Interface.csproj.CoreCompileInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/Interface.sourcelink.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/bin/Debug/net10.0/Interface
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/bin/Debug/net10.0/Interface.deps.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/bin/Debug/net10.0/Interface.runtimeconfig.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/bin/Debug/net10.0/Interface.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/bin/Debug/net10.0/Interface.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/Interface.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/refint/Interface.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/Interface.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/Interface.genruntimeconfig.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Interface-and-Polymorphism/obj/Debug/net10.0/ref/Interface.dll
