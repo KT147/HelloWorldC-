@@ -1,0 +1,15 @@
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/bin/Debug/net10.0/Structs
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/bin/Debug/net10.0/Structs.deps.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/bin/Debug/net10.0/Structs.runtimeconfig.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/bin/Debug/net10.0/Structs.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/bin/Debug/net10.0/Structs.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/Structs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/Structs.AssemblyInfoInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/Structs.AssemblyInfo.cs
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/Structs.csproj.CoreCompileInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/Structs.sourcelink.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/Structs.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/refint/Structs.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/Structs.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/Structs.genruntimeconfig.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Structs/obj/Debug/net10.0/ref/Structs.dll
