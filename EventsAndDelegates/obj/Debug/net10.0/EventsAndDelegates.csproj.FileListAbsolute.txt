@@ -1,0 +1,15 @@
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/EventsAndDelegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/EventsAndDelegates.AssemblyInfoInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/EventsAndDelegates.AssemblyInfo.cs
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/EventsAndDelegates.csproj.CoreCompileInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/EventsAndDelegates.sourcelink.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/bin/Debug/net10.0/EventsAndDelegates
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/bin/Debug/net10.0/EventsAndDelegates.deps.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/bin/Debug/net10.0/EventsAndDelegates.runtimeconfig.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/bin/Debug/net10.0/EventsAndDelegates.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/bin/Debug/net10.0/EventsAndDelegates.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/EventsAndDelegates.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/refint/EventsAndDelegates.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/EventsAndDelegates.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/EventsAndDelegates.genruntimeconfig.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/EventsAndDelegates/obj/Debug/net10.0/ref/EventsAndDelegates.dll
