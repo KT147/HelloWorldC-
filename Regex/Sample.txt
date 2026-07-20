@@ -1,0 +1,53 @@
+123456789
+
+202-555-0120
+202-553-0133
+202#555-0555
+
+0175/12345678
++49165/12312347
+0049165/12312347
+
+Regex:
+\+?\d{4,7}([/]\d{8})
+(\+49)|0049|0?1(6|7)\d/\d{8}
+
+\d{3}-\d{3}-\d{4}
+\d{3}[.#-]\d{3}[.#-]\d{4}
+
+
+asfkahfhashfakafkahfkahaf
+AKKKAFJKANFKANKFBAKKFAKFAKN
+
+LaLa La La LaLa
+
+Mr. Panjuta
+Mr Muller
+Mr Roberstson
+Mr. G
+Ms Smith
+Ms Jackson
+
+(Mr)(.?)\s[A-Z]+
+
+test@test.com
+
+https://www.tutorials.eu
+https://tutorials.eu
+http://www.tutorials.eu
+http://tutorials.eu
+
+Regex:
+https://|(http://)?(www.)?tutorials.eu
+
+https?://(www.)?(\w+)(\.\w+)
+
+
+https://(www.)?tutorials.eu
+
+support@example.com 
+sales@example.org
+
+\
+
+^^

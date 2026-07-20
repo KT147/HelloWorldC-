@@ -1,0 +1,15 @@
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/bin/Debug/net10.0/Regex
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/bin/Debug/net10.0/Regex.deps.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/bin/Debug/net10.0/Regex.runtimeconfig.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/bin/Debug/net10.0/Regex.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/bin/Debug/net10.0/Regex.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/Regex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/Regex.AssemblyInfoInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/Regex.AssemblyInfo.cs
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/Regex.csproj.CoreCompileInputs.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/Regex.sourcelink.json
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/Regex.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/refint/Regex.dll
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/Regex.pdb
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/Regex.genruntimeconfig.cache
+/Users/atla/Desktop/GitHub/HelloWorldC#/Regex/obj/Debug/net10.0/ref/Regex.dll
